@@ -1,0 +1,27 @@
+
+Data/DFConnId.ini
+AppSrc/LoginEncryptionKey.inc
+
+# Archivos generados y temporales
+*.exe
+*.dbg
+*.dep
+*.prn
+*.cch
+*.log
+*.bak
+*.err
+
+# Configuracion personal del editor
+IdeSrc/Workspace.loc
+
+# Copias locales de tablas migradas
+Data/CodeMast.*
+Data/CodeType.*
+Data/WebAppServerProps.*
+Data/WebAppSession.*
+Data/WebAppUser.*
+Data/*.k*
+
+# Conservar las descripciones de tablas SQL
+!Data/*.int
